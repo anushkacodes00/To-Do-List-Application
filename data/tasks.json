@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "task": "evening walk",
+        "date": "2026-07-08",
+        "time": "17:30",
+        "priority": "Medium",
+        "status": "Completed"
+    },
+    {
+        "id": 2,
+        "task": "medicine",
+        "date": "2026-07-11",
+        "time": "23.55",
+        "priority": "High",
+        "status": "Completed"
+    },
+    {
+        "id": 3,
+        "task": "maths practice",
+        "date": "2026-07-12",
+        "time": "7:30",
+        "priority": "High",
+        "status": "Completed"
+    },
+    {
+        "id": 4,
+        "task": "morning walk",
+        "date": "2026-07-13",
+        "time": "5:00",
+        "priority": "Medium",
+        "status": "Pending"
+    }
+]

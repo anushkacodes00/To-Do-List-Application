@@ -1,0 +1,4 @@
+plyer
+colorama
+rich
+tabulate

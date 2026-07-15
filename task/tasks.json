@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "task": "Complete Python Assignment",
+        "date": "2026-07-10",
+        "time": "18:30",
+        "priority": "High",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "task": "Buy Groceries",
+        "date": "2026-07-11",
+        "time": "20:00",
+        "priority": "Medium",
+        "status": "Completed"
+    }
+]
