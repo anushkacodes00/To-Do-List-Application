@@ -127,14 +127,3 @@ python main.py
 
 ---
 
-## 👨‍💻 Author
-
-**Anushka Choudhury**
-
-First-Year B.Tech (ECE)
-
-Academy of Technology
-
-Mini Project - Python Smart To-Do List
-
-2026
